@@ -46,7 +46,7 @@ Make sure you have all the necessary prerequisites installed on your system. Fol
 - Open a terminal or command prompt and navigate to the directory where you want to clone the project.
 - Run the following command to clone the project from GitHub:
   ```bash
-  git clone https://github.com/sudeepmahato16/movies-app.git
+  git clone https://github.com/franschezco/tmovies.git
   ```
 - This will create a new directory called "movies-app" in the current location, containing the code for the movie app project.
 - Navigate to the project directory by running the following command:
